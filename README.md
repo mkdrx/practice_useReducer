@@ -1,13 +1,20 @@
 # Counter to practice basic useReducer
 
-**To install dependencies:**
+- Clone the project
 
-```
-npm install
+```bash
+  git clone https://github.com/mkdrx/simple-counter.git
 ```
 
-**Run on http://localhost:3000 and the command to start dev mode**
+- Go to the project directory
 
+```bash
+  cd simple-counter
 ```
-npm start
+
+- Install dependencies
+
+```bash
+  npm install
 ```
+
